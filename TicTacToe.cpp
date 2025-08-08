@@ -1,3 +1,5 @@
+//using only functions
+
 #include<iostream>
 using namespace std;
 
@@ -117,4 +119,5 @@ int main()
 {
     game();
     return 0;
+
 }
