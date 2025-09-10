@@ -3,5 +3,6 @@ Small Projects
 
 This is my first Git repository 
 
-tic tac toe game using only function
+1. tic tac toe game using only function
+2. simple calculator
 
